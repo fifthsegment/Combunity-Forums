@@ -1,0 +1,21 @@
+{
+  "name": "combunity-forums",
+  "version": "2.0.17",
+  "description": "Combunity allows you to build powerful online social communities right on top of WordPress.  You can use Combunity to build the next Reddit, StackOverflow, Voat.co, a support Forum or simply a community of like minded people. Combunity is extremely light weight, seo friendly, supports social sharing, loads almost instantly and looks beautiful.",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-compress": "^1.3.0",
+    "async": "^2.1.4",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-wp-deploy": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
